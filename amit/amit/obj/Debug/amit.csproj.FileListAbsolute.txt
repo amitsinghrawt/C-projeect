@@ -1,0 +1,5 @@
+C:\Users\USER.VADD1PC33\Documents\Visual Studio 2012\Projects\amit\amit\bin\amit.dll
+C:\Users\USER.VADD1PC33\Documents\Visual Studio 2012\Projects\amit\amit\bin\amit.pdb
+C:\Users\USER.VADD1PC33\Documents\Visual Studio 2012\Projects\amit\amit\obj\Debug\amit.dll
+C:\Users\USER.VADD1PC33\Documents\Visual Studio 2012\Projects\amit\amit\obj\Debug\amit.pdb
+C:\Users\USER.VADD1PC33\Documents\Visual Studio 2012\Projects\amit\amit\obj\Debug\amit.csprojResolveAssemblyReference.cache
